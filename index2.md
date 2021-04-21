@@ -4,7 +4,7 @@ title: Hang Zhou
 
 
 # Hang ZHOU 周航
-  # Education
+  ## Education
   * PhD in Politics & International Studies, SOAS, University of London (2016-2021)
   * MA in Development Studies, EHESS-Paris (2015-2016)
   * MA in Peace & Conflict Studies, Uppsala University (2010-2012)
