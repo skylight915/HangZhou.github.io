@@ -9,14 +9,6 @@ title: Hang Zhou
   <a href="Coding">Coding</a>
 </div>
 
-<!-- Side navigation -->
-<div class="sidenav">
-  <a href="#">About</a>
-  <a href="#">Services</a>
-  <a href="#">Clients</a>
-  <a href="#">Contact</a>
-</div>
-
 <br>
 
 ## About me
@@ -31,7 +23,7 @@ Welcome & Bienvenue! I am the postdoctoral fellow in ERC-funded project **[Trans
   * BA in Political Science, University of Paris-X (2009)
   * BA in International Politics, University of Sichuan (2009)
   
-![Profile picture](/skylight915/HangZhou.github.io/MG_0264.jpg "HangZhou")
+![Profile picture](/IMG_0264.jpg "HangZhou")
 
 
 
