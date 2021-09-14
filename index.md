@@ -5,13 +5,14 @@ title: Hang Zhou
 
 
 <div class="topnav">
-  <a class="active" href="About me">About me</a>
-   <span class="separator">  |  </span>
   <a href="Research">Research</a>
    <span class="separator">  |  </span>
   <a href="Teaching">Teaching</a>
    <span class="separator">  |  </span>
   <a href="Coding">Coding</a>
+   <span class="separator">  |  </span>
+  <a class="CV">About me</a>
+   
 </div>
 
 <br>
