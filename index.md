@@ -18,11 +18,12 @@ Welcome & Bienvenue! I am the postdoctoral fellow in ERC-funded project **[Trans
 
 ### Education
   * PhD in Politics & International Studies, SOAS, University of London (2021)
-  * MA in Development Studies, EHESS-Paris (2016)
-  * MA in Peace & Conflict Studies, Uppsala University (2012)
+  * Mres in Development Studies, EHESS-Paris (2016)
+  * Msc in Peace & Conflict Studies, Uppsala University (2012)
   * BA in Political Science, University of Paris-X (2009)
   * BA in International Politics, University of Sichuan (2009)
   
-I have recently completed my PhD in politics & international studies at SOAS, University of London. I hold a Master Recherche in development studies from EHESS-Paris, a Master of Social Science in peace and conflict studies from Uppsala University (Sweden), a Bachelor's degree in political science from University of Paris-X and a Bachelor of Law in international politics from Sichuan University (China).  
+![The San Juan Mountains are beautiful!](/skylight915/HangZhou.github.io/MG_0264.jpg "San Juan Mountains")
+
 
 
