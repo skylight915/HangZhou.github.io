@@ -3,10 +3,10 @@ title: Hang Zhou
 ---
 
 <div class="topnav">
-  <a class="active" href="#home">Home</a>
-  <a href="Research">News</a>
-  <a href="Teaching">Contact</a>
-  <a href="Coding">About</a>
+  <a class="active" href="About me">About me</a>
+  <a href="Research">Research</a>
+  <a href="Teaching">Teaching</a>
+  <a href="Coding">Coding</a>
 </div>
 
 <br>
