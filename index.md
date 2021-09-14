@@ -23,7 +23,7 @@ Welcome & Bienvenue! I am the postdoctoral fellow in ERC-funded project **[Trans
   * BA in Political Science, University of Paris-X (2009)
   * BA in International Politics, University of Sichuan (2009)
   
-![Profile picture](/IMG_0264.jpg "HangZhou")
+
 
 
 
