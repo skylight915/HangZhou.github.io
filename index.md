@@ -2,7 +2,12 @@
 title: Hang Zhou
 ---
 
-<span style="color:blue"> # Ayo Hang ZHOU 周航 </span>
+<div class="topnav">
+  <a class="active" href="#home">Home</a>
+  <a href="#news">News</a>
+  <a href="#contact">Contact</a>
+  <a href="#about">About</a>
+</div>
 
 
 ## About me
