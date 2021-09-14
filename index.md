@@ -11,7 +11,7 @@ title: Hang Zhou
    <span class="separator">  |  </span>
   <a href="Coding">Coding</a>
    <span class="separator">  |  </span>
-  <a class="CV">CV</a>
+  <a href="CV">CV</a>
    
 </div>
 
