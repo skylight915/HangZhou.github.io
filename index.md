@@ -16,7 +16,7 @@ title: Hang Zhou
   <a href="https://uk.linkedin.com/in/hang-zhou-skylight" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn </a>
    <span class="separator">  |  </span>
-  <a href="https://scholar.google.com/citations?user=otpUDCkAAAAJ&hl=en]" rel="nofollow noreferrer">
+  <a href="https://scholar.google.com/citations?user=otpUDCkAAAAJ&hl=en" rel="nofollow noreferrer">
     <img src="google_scholar.png" alt="Google Scholar"> Google Scholar </a>
  
 
