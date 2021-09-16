@@ -18,7 +18,7 @@ title: Hang Zhou
   </a> &nbsp; 
    <span class="separator">  |  </span>
   <a href="https://scholar.google.com/citations?user=otpUDCkAAAAJ&hl=en]" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/tskMh.png" alt="Google Scholar"> Github
+    <img src="https://favpng.com/png_view/google-google-scholar-academic-journal-google-logo-education-png/ieHX1Lb1" alt="Google Scholar">
   </a>
   </p>
   
