@@ -37,7 +37,10 @@ Welcome & Bienvenue! I am the postdoctoral fellow in ERC-funded project **[Trans
   * BA in Political Science, University of Paris-X (2009)
   * BA in International Politics, University of Sichuan (2009)
   
-
+### Professional Experience 
+* Program Officer, China & the Developing World Program, Oxfam Hong Kong (2015)
+* Researcher, China & Global Security Program, Stockholm International Peace Research Institute/SIPRI (2014)
+* Research Assistant, China & Global Security Program, SIPRI (2012-13)
 
 
 
