@@ -12,8 +12,6 @@ title: Hang Zhou
   <a href="Coding">Coding</a>
    <span class="separator">  |  </span>
   <a href="CV">CV</a>
-     <span class="separator">  |  </span>
-  
 <p style="text-align:right;">
   <a href="https://uk.linkedin.com/in/hang-zhou-skylight" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
