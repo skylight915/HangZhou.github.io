@@ -1,9 +1,10 @@
 # HangZhou.github.io
-A agent-based model to build agents (e.g. sheep) wandering around and eating material data from the underlying landscape (e.g. pasture) and to display their movement in an animation. 
+My personal website containing information on my academic training, professional background, research interest and very rudimentary coding experience.  
 
 ## List of main files
-1. The main source code 'module_practical_final.py'.
-2. A module file 'agentframework.py'
+1. Markdown and HTML documents 'CV', 'Coding', 'Research' & 'Teaching' -- essentially contained in the navigational menu.
+2. PDF documents of my CV (Chinese & English)
+3. PNGs of the logos of Linkedin and Google scholar and of my profile picture. 
 
 ## Development ideas
 - Include a new webpage on the fieldwork photos I have taken during my research. 
