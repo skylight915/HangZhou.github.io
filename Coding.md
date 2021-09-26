@@ -11,3 +11,9 @@ A agent-based model to build agents (e.g. sheep) wandering around and eating mat
 5. Initiatlizing the model with data scrapping from othe web.<br>
 
 Information about this project including source code is available **[here](https://github.com/skylight915/AS1_ABM_SheepGrazing)**.
+
+### Calculating Deaths in the 1665 Black Death Outbreak
+A code deveveloped to estimate the total death of the Black Death outbreak in 1664 based upon historical records of rats population and parish population density and to allow user inputs. The project is under [APACHE LICENSE, VERSION 2.0](https://www.apache.org/licenses/LICENSE-2.0) and is mainly composed of the following development steps: <br>
+
+Information about this project including source code is available **[here](https://github.com/skylight915/EstimatingBlackDeath1665)**.
+
